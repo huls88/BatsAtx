@@ -1,0 +1,8 @@
+-- INSERT INTO bats_app (Id, Name, Price, Url, Description)
+-- VALUES ('1', 'Bat ATX Logo Shirt','15.99', 'https://d1yg28hrivmbqm.cloudfront.net/files/3c4/3c4bf120f0983df15b1570b313800425_preview.png', 'its a shirt, buy it you dummy');
+-- INSERT INTO bats_app (Id, Name, Price, Url, Description)
+-- VALUES ('2', 'Love Bats Shirt','15.99', 'https://d1yg28hrivmbqm.cloudfront.net/files/d89/d8949b51a42e63c87e93c1b99d394da7_preview.png', 'its a shirt, buy it you dummy');
+-- INSERT INTO bats_app (Id, Name, Price, Url, Description)
+-- VALUES ('1', 'Guano Shirt','15.99', 'https://d1yg28hrivmbqm.cloudfront.net/files/2bb/2bbb2c4f36d74d860c0d9a625905b8f2_preview.png', 'its a shirt, buy it you dummy');
+-- INSERT INTO bats_app (Id, Name, Price, Url, Description)
+-- VALUES ('1', 'Skyline Shirt','15.99', 'https://d1yg28hrivmbqm.cloudfront.net/files/3c4/3c4bf120f0983df15b1570b313800425_preview.png', 'its a shirt, buy it you dummy');

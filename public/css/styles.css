@@ -1,0 +1,239 @@
+
+body {
+  background-color: #ffb300;
+}
+
+
+h1, h2, h3, h4{
+  font-family: 'Didact Gothic', sans-serif;
+  text-shadow: .5px .5px #000;
+}
+
+
+td {
+  background-color: teal;
+}
+
+#subtract {
+  border-radius: 30px;
+  padding: 10px;
+}
+
+.summary {
+  font-weight: 600;
+}
+
+
+
+.headerText {
+  color: white;
+}
+
+
+#headerText {
+  text-shadow: .5px .5px #000;
+
+}
+
+#nav-mobile {
+  margin-left: 430px;
+  margin-right: auto;
+  font-weight: bold;
+}
+
+#mainContainer {
+  height: auto;
+  width: auto;
+  background-image: url(../images/sunset2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 80%;
+  background-attachment: fixed;
+  background-position: bottom;
+
+}
+
+.wrapper {
+ display: grid;
+ grid-template-columns: repeat(5, 1fr);
+ grid-gap: 10px;
+ grid-auto-rows: minmax(100px, auto);
+
+}
+.one {
+  grid-column: 2/5;
+  grid-row: 1;
+  z-index: 1;
+  font-weight: bolder;
+  text-shadow: .5px .5px #000;
+  text-align: center;
+
+}
+.two {
+  grid-column: 1/ 5;
+  grid-row: 1/ 5;
+  z-index: 0;
+}
+.three {
+  grid-column: 3;
+  grid-row: 2;
+  text-shadow: .5px .5px #000;
+  z-index: 1;
+  text-align: center;
+}
+
+.four {
+  grid-column: 2/5;
+  grid-row: 3;
+  z-index: 1;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.six {
+  grid-column: 3;
+  grid-row: 4;
+  z-index: 1;
+  text-align: center;
+  margin-bottom: 120px;
+}
+
+
+.batLogo2 {
+  height: 100px;
+  width: auto;
+  margin-left: -20px;
+
+}
+
+.batLogo {
+  height: 200px;
+  width: auto;
+
+}
+
+
+.introButton {
+  width: 150px;
+  border-radius: 50px;
+}
+
+.infoContainer {
+  height: auto;
+  width: auto;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#weather {
+  height: auto;
+  width: auto;
+  margin-top: -20px;
+}
+
+.weatherSubBox {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px:
+  width: auto;
+  height: auto;
+  padding: 20px;
+  background-color: #bbdefb;
+}
+
+.infoContainer {
+  padding: 20px;
+  /*height: 800px;*/
+}
+
+.viewingCards {
+  width: auto;
+  min-height: 400px;
+}
+
+.instagramContainer {
+  width:100%;
+  padding: 20px;
+}
+
+.shopContainer {
+  width: 100%;
+  height: auto;
+padding-left: 25px;
+padding-right: 25px;
+padding-top: 25px;
+}
+
+.products2 {
+  background-color: white;
+}
+
+.shopItems {
+  width: auto;
+  background-color: lightgrey;
+  padding-bottom: 50px;
+}
+
+.donationPannel {
+  height: 600px;
+  padding-top: 25px;
+}
+
+.snipcart-add-item {
+  width: 100px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.dontationButton {
+  padding-top: 850px;
+}
+
+#donateButton {
+  border-radius: 30px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.conservationImage {
+  text-align: center;
+  margin-top: 30px;
+
+}
+
+#batOrgImage {
+    border-radius: 30px;
+  }
+
+  form.signup {
+  margin-top: 50px;
+
+/*SHOP CSS*/
+
+
+/*canvas*/
+
+
+#mainHeaderText2 {
+  margin-left: 330px;
+  margin-top: 250px;
+  position: absolute;
+  z-index: 1;
+}
+
+#headerSubText2 {
+  position: absolute;
+  z-index: 1;
+  margin-left: 120px;
+  margin-top: 350px;
+}
+
+html,body{
+  margin: 0;
+  padding: 0;
+}
+
+.snipcart-overwrite #snipcart-footer #snipcart-powered {
+    display: none;
+}
