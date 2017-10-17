@@ -1,2 +1,1 @@
-# projectTwo
-Austin bats app
+Bat app for Austin.
